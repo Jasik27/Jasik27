@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasik27
+- 👋 Hi, I’m Omar Faruk Jasik
 - 📊 Passionate about data science, machine learning, and Python-powered automation
 - 🧠 Currently learning SQL and exploring ML applications for real-world problem-solving
 - 💻 Enthusiastic about practical implementation of AI, data analysis, and software development
